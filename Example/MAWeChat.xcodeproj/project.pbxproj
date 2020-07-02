@@ -248,6 +248,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = angryminiant;
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = AV59255865;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -513,6 +516,7 @@
 			baseConfigurationReference = E4DE5056B6AE0FDE1015B0FC /* Pods-MAWeChat_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AV59255865;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MAWeChat/MAWeChat-Prefix.pch";
 				INFOPLIST_FILE = "MAWeChat/MAWeChat-Info.plist";
@@ -529,6 +533,7 @@
 			baseConfigurationReference = AA517081CFBCEE8023C0BD06 /* Pods-MAWeChat_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AV59255865;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MAWeChat/MAWeChat-Prefix.pch";
 				INFOPLIST_FILE = "MAWeChat/MAWeChat-Info.plist";
