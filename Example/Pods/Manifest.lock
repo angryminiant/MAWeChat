@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - MAWeChat (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - MAWeChat (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  MAWeChat:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  MAWeChat: 36f26a17a38f4ccd8629084c8c5b7b382f4d56a4
+
+PODFILE CHECKSUM: 51cdf31d29d48ccb61983d3b61e69b49300c2ed1
+
+COCOAPODS: 1.9.3

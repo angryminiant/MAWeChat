@@ -1,0 +1,6 @@
+framework module MAWeChat {
+  umbrella header "MAWeChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
