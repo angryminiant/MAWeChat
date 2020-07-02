@@ -1,0 +1,29 @@
+# MAWeChat
+
+[![CI Status](https://img.shields.io/travis/angryminiant/MAWeChat.svg?style=flat)](https://travis-ci.org/angryminiant/MAWeChat)
+[![Version](https://img.shields.io/cocoapods/v/MAWeChat.svg?style=flat)](https://cocoapods.org/pods/MAWeChat)
+[![License](https://img.shields.io/cocoapods/l/MAWeChat.svg?style=flat)](https://cocoapods.org/pods/MAWeChat)
+[![Platform](https://img.shields.io/cocoapods/p/MAWeChat.svg?style=flat)](https://cocoapods.org/pods/MAWeChat)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+MAWeChat is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'MAWeChat'
+```
+
+## Author
+
+angryminiant, angryminiant@163.com
+
+## License
+
+MAWeChat is available under the MIT license. See the LICENSE file for more info.

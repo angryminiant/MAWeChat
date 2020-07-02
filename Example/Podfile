@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MAWeChat_Example' do
+  pod 'MAWeChat', :path => '../'
+
+  target 'MAWeChat_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
